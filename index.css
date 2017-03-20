@@ -1,0 +1,12 @@
+.wrapper {
+  position: relative;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.signature-pad {
+  border-style: dotted;
+  border-width: 1px;
+  margin-bottom: 5px;
+}
